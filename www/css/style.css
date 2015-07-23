@@ -1,0 +1,31 @@
+p {
+	color: red;
+	font-size: 24;
+}
+
+a.abzac {
+	color: purple;
+}
+
+a[href="http://google.com"] {
+	color: yellow;
+}
+
+.father p{
+	color: pink;
+	background-color: black;
+	font-size: 48;
+}
+
+.father > h3 {
+	background-color: green;
+}
+
+a:hover {
+	background-color: red;
+}
+
+h3::first-letter {
+	font-size: 70;
+	color: green;
+}

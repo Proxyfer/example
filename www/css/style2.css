@@ -1,0 +1,14 @@
+.container{
+	width: 768px;
+	margin: 0 auto;
+}
+
+header {
+	text-align: center;
+}
+
+.main_container {
+	width: 640px;
+	margin: auto;
+}
+
